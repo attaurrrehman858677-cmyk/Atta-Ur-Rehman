@@ -1,0 +1,8 @@
+{
+  "name": "Remix NeuroMind AGI - Autonomous AI OS",
+  "description": "Zero-touch Autonomous Human-like AI Operating System with continuous voice listening, autonomous task execution, and self-evolving AI sub-agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
